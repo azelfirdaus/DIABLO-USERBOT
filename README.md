@@ -1,12 +1,12 @@
-<a href="https://www.instagram.com/lilfrdzr=nametag"><img src="https://telegra.ph/file/9a5eafc72be71b2e1b3a8.jpg" width="320" height="211" alt="  JEM-BOT" /></a>
+<a href="https://www.instagram.com/lilfrdzr=nametag"><img src="https://telegra.ph/file/0c075eb85b421418b2f7f.jpg" width="320" height="211" alt="  JEM-BOT" /></a>
 
 <p align="center">
   <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
     <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/azelfirdaus/JEM-BOT">
-    <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
+  <a href="https://github.com/azelfirdaus/DIABLO-USERBOT">
+    <img src="https://img.shields.io/github/stars/azelfirdaus/DIABLO-USERBOT?style=social">
   </a>
 </p>  
 
@@ -15,7 +15,7 @@
 <a href="https://t.me/Deadendzs"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## Pemilik Repo: Azel
-[<img src="https://telegra.ph/file/154d615ac8ad0d7c2cee6.mp4">](https://t.me/kicuh)
+[<img src="https://telegra.ph/file/154d615ac8ad0d7c2cee6.mp4">](https://t.me/Diabloyy)
 
   
   
@@ -31,10 +31,10 @@
 ##
 
 # JANGAN BINGUNG BUAT DEPLOY!
-[![Deploy](https://https://telegra.ph/file/779e6f75d46760b35fb51.jpg)](https://t.me/Deadendzs)
+[![Deploy](https://telegra.ph/file/0c075eb85b421418b2f7f.jpg)](https://t.me/Deadendzs)
 
 
-<h3 align="center">JEM-BOT SELALU DI HATI.</h3>
+<h3 align="center">DIABLO-USERBOT SELALU DI HATI.</h3>
 <p align="center">&nbsp;</p>
 
 ### <a href="https://t.me/Deadendzs"><img src="https://img.shields.io/badge/GROUP%20SPAM%20RAM%20UBOT-blue?style=flat&logo=Telegram" width="250" height="40.100" />
@@ -48,7 +48,7 @@
 
 ### AMBIL STRING DI BAWAH INI:
 
- [![JEM-BOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
+ [![DIABLO-STRING](https://replit.com/badge/github/@azelfirdaus/DIABLO-USERBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
 
 
 
