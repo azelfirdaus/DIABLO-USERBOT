@@ -8,7 +8,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 # ============================================
 
 
-@register(outgoing=True, pattern="^.helpmy$")
+@register(outgoing=True, pattern="^.helpme$")
 async def usit(e):
     await e.edit(
         f"**Hai {DEFAULTUSER} Kalau Anda Tidak Tau Perintah Untuk Memerintah Ku Ketik** `.helpmek` Atau Bisa `.help` atau Minta Bantuan Ke:\n"
@@ -21,13 +21,13 @@ async def usit(e):
 async def var(m):
     await m.edit(
         f"**Disini Daftar Vars Dari {DEFAULTUSER}:**\n"
-        "\n[DAFTAR VARS](https://raw.githubusercontent.com/azelfirdaus/JEM-BOT/JEM-BOT/varshelper.txt)")
+        "\n[DAFTAR VARS](https://raw.githubusercontent.com/azelfirdaus/DIABLO-USERBOT/DIABLO-USERBOT/varshelper.txt)")
 
 
 CMD_HELP.update({
-    "ramhelper":
-    "`.helpmy`\
-\nPenjelasan: Bantuan Untuk JEM-BOT.\
+    "Heleppp":
+    "`.helpme`\
+\nPenjelasan: Bantuan Untuk DIABLO-USERBOT.\
 \n`.mekvars`\
 \nPenjelasan: Untuk Melihat Beberapa Daftar Vars."
 })
