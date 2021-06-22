@@ -28,15 +28,15 @@ from userbot.events import register
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 
 DEF_UNAPPROVED_MSG = (
-    f"**╭━━━━━━━━━━━━━━━━━╮**\n    🌟SELAMAT DATANG🌟\n"
-    "**╰━━━━━━━━━━━━━━━━━╯**\n"
-    "▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n"
-    f"**ANAK KONTOL ANAK NGENTOT,KALO NGECHAT MAJIKAN {DEFAULTUSER} ITU SALAM,\nHABIS ITU SABAR TUNGGU MAJIKAN GUA BALES,\nKALO GA DI BALES - BALES, LU JANGAN NYEPAM KONTOL, APA LAGI LU NGECHAT NYA CUMA MINTA VCS, BISA GUA BLOKIR!! KALO NYEPAM JUGA TAR GUA BLOKIR!!!! TUNGGU SI {DEFAULTUSER} NERIMA PESAN LU**\n"
-    "▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n"
-    "╭✠╼━━━━━━❖━━━━━━━✠╮\n"
-    "┣[• BOT MESSAGE\n"
-    "┣[• BY RAM-UBOT\n"
-    "╰✠╼━━━━━━❖━━━━━━━✠╯")
+    f"**━━━━━━━━━━━━━━━━━**\n    ADA APA CHAT MAJIKAN GUA ? SANGE?\n"
+    "**━━━━━━━━━━━━━━━━━**\n"
+    "...............................\n"
+    f"**BAGINDA {DEFAULTUSER} ITU ORANG SIBUK,\nJADI SABAR ,\nKALO GA DI BALES - BALES, JANGAN SPAM YA, APA LAGI LU NGECHAT NYA CUMA MINTA VCS, BISA GUA BLOKIR!! KALO NYEPAM JUGA TAR GUA BLOKIR!!!! TUNGGU SI {DEFAULTUSER} NERIMA PESAN LU**\n"
+    "...............................\n"
+    "╼━━━━━━━━━━━━\n"
+    "• BOT MESSAGE\n"
+    "• BY DIABLO-USERBOT\n"
+    "╼━━━━━━━━━━━━━")
 # =================================================================
 
 
