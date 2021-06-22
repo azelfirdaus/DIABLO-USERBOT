@@ -178,7 +178,7 @@ YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", None)
 RAM_TEKS_KOSTUM = os.environ.get("RAM_TEKS_KOSTUM") or "ㅤ"
 
 # Untuk Melihat Repo
-REPO_NAME = os.environ.get("REPO_NAME") or "🥵𝙅𝙀𝙈-𝘽𝙊𝙏🥵"
+REPO_NAME = os.environ.get("REPO_NAME") or "🥵DIABLO USERBOT🥵"
 
 # Default .alive Name
 ALIVE_NAME = os.environ.get("ALIVE_NAME", None)
@@ -233,7 +233,7 @@ OWNER_BOT = os.environ.get(
 
 # Last.fm Module
 BIO_PREFIX = os.environ.get("BIO_PREFIX", None)
-DEFAULT_BIO = os.environ.get("DEFAULT_BIO") or "🥵𝙅𝙀𝙈-𝘽𝙊𝙏🥵"
+DEFAULT_BIO = os.environ.get("DEFAULT_BIO") or "🥵DIABLO USERBOT🥵"
 
 LASTFM_API = os.environ.get("LASTFM_API", None)
 LASTFM_SECRET = os.environ.get("LASTFM_SECRET", None)
@@ -275,7 +275,7 @@ QUOTES_API_TOKEN = os.environ.get("QUOTES_API_TOKEN", None)
 
 # Defaul botlog msg
 BOTLOG_MSG = os.environ.get(
-    "BOTLOG_MSG") or "```𝖩𝖤𝖬-𝖡𝖮𝖳 𝖣𝖨 𝖠𝖪𝖳𝖨𝖥𝖪𝖠𝖭!!🔥🔥║\n\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\nJika Tidak Bisa Di .ping\nSilahkan Anda\nCek viewlogs\nPada heroku Anda.\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰```"
+    "BOTLOG_MSG") or "```DIABLO USERBOT AKTIF!!🔥🔥║\n\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\nJika Tidak Bisa Di .ping\nSilahkan Anda\nCek viewlogs\nPada heroku Anda.\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰```"
 
 # Deezloader
 DEEZER_ARL_TOKEN = os.environ.get("DEEZER_ARL_TOKEN", None)
@@ -399,7 +399,7 @@ ISAFK = False
 AFKREASON = None
 ZALG_LIST = {}
 
-#Import Userbot - Ported by RAMADHANI892
+#Import Userbot - Ported by AZELFIRDAUS
 from userbot import (
     ALIVE_NAME
 )
@@ -496,7 +496,7 @@ with bot:
                              Button.url(f"{EMOJI_HELP} 𝗚𝗥𝗢𝗨𝗣 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 {EMOJI_HELP}",
                                         "t.me/geezSupportGroup")],
                              [Button.url("👤 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 👤",
-                                        "t.me/MaafGausahSokap")],
+                                        "t.me/KICUH")],
                     ]
                 )
 
