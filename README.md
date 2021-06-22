@@ -34,7 +34,7 @@
 [![Deploy](https://telegra.ph/file/0c075eb85b421418b2f7f.jpg)](https://t.me/Deadendzs)
 
 
-<h3 align="center">DIABLO-USERBOT SELALU DI HATI.</h3>
+<h3 align="center">DIABLO SELALU DI HATI.</h3>
 <p align="center">&nbsp;</p>
 
 ### <a href="https://t.me/Deadendzs"><img src="https://img.shields.io/badge/GROUP%20SPAM%20RAM%20UBOT-blue?style=flat&logo=Telegram" width="250" height="40.100" />
@@ -56,7 +56,7 @@
 ##
 ##
 
-<a href="https://heroku.com/deploy?template=https://github.com/azelfirdaus/JEM-BOT.git"><img src="https://img.shields.io/badge/DEPLOY%20RAM%20UBOT-red?style=flat&logo=Heroku" width="325" height="50.100" />
+<a href="https://heroku.com/deploy?template=https://github.com/azelfirdaus/DIABLO-USERBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20DIABLO%20USERBOT-red?style=flat&logo=Heroku" width="325" height="50.100" />
 
 <br>
 </p>
