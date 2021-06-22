@@ -4,13 +4,13 @@ FROM xluxz/geezproject:buster
 # Geez-UserBot
 #yaudah iya
 
-RUN git clone -b RAM-UBOT https://github.com/ramadhani892/RAM-UBOT /root/userbot
+RUN git clone -b DIABLO-USERBOT https://github.com/azelfirdaus/DIABLO-USERBOT /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
 
 #Install python requirements
-RUN pip3 install -r https://raw.githubusercontent.com/ramadhani892/RAM-UBOT/RAM-UBOT/requirements.txt
+RUN pip3 install -r https://raw.githubusercontent.com/azelfirdaus/DIABLO-USERBOT/DIABLO-USERBOT/requirements.txt
 
 EXPOSE 80 443
 
