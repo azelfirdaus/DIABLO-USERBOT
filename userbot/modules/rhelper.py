@@ -17,7 +17,7 @@ async def usit(e):
         "\n\n[JOIN](https://t.me/Deadendzs)")
 
 
-@register(outgoing=True, pattern="^.mvars$")
+@register(outgoing=True, pattern="^.vars$")
 async def var(m):
     await m.edit(
         f"**Disini Daftar Vars Dari {DEFAULTUSER}:**\n"
@@ -26,7 +26,7 @@ async def var(m):
 
 CMD_HELP.update({
     "Heleppp":
-    "`.helpme`\
+    "`.dhelp`\
 \nPenjelasan: Bantuan Untuk DIABLO-USERBOT.\
 \n`.mekvars`\
 \nPenjelasan: Untuk Melihat Beberapa Daftar Vars."
