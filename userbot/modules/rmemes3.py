@@ -7,48 +7,58 @@ from telethon import events
 import asyncio
 
 
-@register(outgoing=True, pattern="^.zel$")
+@register(outgoing=True, pattern="^tod$")
 async def koc(e):
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
-        await e.edit("DIABLO-USERBOT")
+        await e.edit("TOD")
         sleep(1)
-        await e.edit("AZEL ✅")
+        await e.edit("BEKENTOD")
         sleep(1)
-        await e.edit("AZEL ✔️")
+        await e.edit("MUKA LO KAYA KENTOD")
         sleep(1)
-        await e.edit("MOON ✅")
+        await e.edit("RAMBUT KEK JEMBOD")
         sleep(1)
-        await e.edit("MOON ✔️ ")
+        await e.edit("BADAN GA BERBOBOT")
         sleep(1)
-        await e.edit("PIRA ✅")
+        await e.edit("KARNA MAKAN LAUK NYA KAYU JATI")
         sleep(1)
-        await e.edit("PIRA ✔️")
+        await e.edit("GIGI KEROPOS")
         sleep(1)
-        await e.edit("DAKI ✅")
+        await e.edit("MISKIN ")
         sleep(1)
-        await e.edit("DAKI ✔️")
+        await e.edit("PENYAKITAN")
         sleep(1)
-        await e.edit("NDA ✅")
+        await e.edit("TIPES")
         sleep(1)
-        await e.edit("NDA ✔️")
+        await e.edit("KELENJAR GETAH BENING")
         sleep(1)
-        await e.edit("CLEO ✅")
+        await e.edit("TBC")
         sleep(1)
-        await e.edit("CLEO ✔️")
+        await e.edit("KANKER")
         sleep(1)
-        await e.edit("TATA ✅")
+        await e.edit("SERBA KANKER")
         sleep(1)
-        await e.edit("TATA ✔️ ")
+        await e.edit("TUMOR")
         sleep(1)
-        await e.edit("RAVE ✅")
+        await e.edit("SERBA TUMOR")
         sleep(1)
-        await e.edit("RAVE ✔️")
+        await e.edit("SEMUA PENYAKIT")
         sleep(1)
-        await e.edit("SEKIAN")
+        await e.edit("DI BORONG")
         sleep(1)
-        await e.edit("JAN LUPA NGOCOK HARI INI")
-        
-        
+        await e.edit("PENGANGGURAN")
+        sleep(1)
+        await e.edit("GAPUNYA DUIT")
+        sleep(1)
+        await e.edit("BUAT BELI OBAT")
+        sleep(1)
+        await e.edit("KENA HIV")
+        sleep(1)
+        await e.edit("BELI NYA PARAMEK AMA BODREK")
+        sleep(1) 
+        await e.edit("DAH LAH CAPE")
+        sleep(1)
+        await e.edit("MUKA LO KEK KONTOL")
 
 
 @register(outgoing=True, pattern='^.huh(?: |$)(.*)')
@@ -170,12 +180,12 @@ async def _(event):
         await event.edit(input_str)
 
         animation_chars = [
-            "**OWNER RAM-UBOT ADALAH MANUSIA TERGANTENG DI HATI PEMAKAI NYA, KENALAN DULU SAMA OWNER NYA YUK**"
-            "**RAMADHANI NAMANYA,ORANG NYA BAIK**"
-            "**TINGGAL NYA DI TANGERANG, BTW ORANG TANGERANG GANTENG GANTENG DAN THEBEST POKOK NYA AWWHHHH**"
-            "**KALO MAU FORK REPONYA,IZIN DULU KE ORANG NYA YA GENGSSS**"
-            "**POKOK NYA OWNER NYA THEBEST BANGET SERIUSSSSS**"
-            "**UDAH POKOK NYA ITU AJA SIH,INTINYA OWNER NYA GANTENG DAN BAIK PARAH**"]
+            "**OWNER DIABLO-USERBOT ITU GANTENG SHOLEH TYPE PARA CEWE LAH POKOK NYA**"
+            "**AZEL NAMANYA BERKONTOL GEDE DAN PANJANG**"
+            "**TINGGAL DI KALTIM BALIKPAPAN UMUR 16 MASIH PERJAKA PLES PRES**"
+            "**IG: LILFRDZ JAN LUPA POLOW**"
+            "**KALO MAU WA PC AJA PASTI DI KASIH KOK KARNA AZEL ITU ORG NYA RAMAH PAS RESPON**"
+            "**INTINYA TIADA YG SEMPURNA KECUALI TUHAN , AZEL DAN ROKO SURYA**"]
 
         for i in animation_ttl:
 
@@ -185,7 +195,7 @@ async def _(event):
 
 CMD_HELP.update({
     "memes5":
-    "`.nah` ; `.huh` ; `.owner`\
+    "`.tod` ; `.huh` ; `.owner`\
     \nUsage: cobain.\
     \n\n`.bunga` ; `.buah`\
     \nUsage: animasi.\
